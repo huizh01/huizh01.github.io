@@ -44,7 +44,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 # Work Experiences
  
- <table style="width:100%">
+<table style="width:100%">
 <col width="9%">
 <col width="20">
 <col >
@@ -79,8 +79,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 [**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
 - Research Intern in Image Processing
-
-
  
 </table>
 
