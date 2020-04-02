@@ -15,4 +15,4 @@ redirect_from:
 # About Me
 * I am a Ph.D. student in the [Department of Computer Science](https://www.cs.hku.hk), [The University of Hong Kong](https://www.hku.hk), advised by Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). Previously, I received my Master’s Degree in the [Department of Automation](https://auto.ustc.edu.cn/en/index.php), [University of Science and Technology of China](http://en.ustc.edu.cn), advised by Prof. [Shuang Cong](https://scholar.google.com.hk/citations?hl=en&user=2oPsqNQAAAAJ&view_op=list_works).
 
-* My research interests focus on computer graphics and vision, visualization, medical image processing. I am also interested in developing new machine learning and AI methods to solve challenging research problems and applications.
+* My research interests lies on computer graphics and vision, visualization, medical image processing. I am also interested in developing new machine learning and AI methods to solve challenging research problems and applications.
