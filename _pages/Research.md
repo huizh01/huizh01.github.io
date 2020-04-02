@@ -50,7 +50,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <col >
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/images/hkulogo.jpg)
+![hkulogo](/images/tokyologo.jpg)
 </td>
 <td></td>
 <td markdown="1">
@@ -62,7 +62,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/images/ustclogo.jpg)
+![ustclogo](/images/stuttgartlogo.jpg)
 </td>
 <td></td>
 <td markdown="1">
@@ -73,7 +73,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/images/ustclogo.jpg)
+![ustclogo](/images/caslogo.jpg)
 </td>
 <td></td>
 <td markdown="1">
@@ -81,62 +81,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 - Research Intern in Image Processing
 
 
-
-</table>
-
-
-
  
-<tr height="10"/>
-
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-![hkulogo](/images/hkuenglishlogo.jpg)
-</td>
-<td></td>
-<td markdown="1">
-[**The University of Hong Kong**](http://www.hku.hk), 2010 - 2015 
-- Research Assistant in Computer Vision and Computer Graphics
-</td> 
-</tr>
-
-<tr height="10"/>
-
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-![cadcg](/images/stuttgartlogo.jpg)
-</td>
-<td></td>
-<td markdown="1">
-[**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), 2018.10 - 2019.2
-- Research Assistant 
- 
-<tr height="10"/>
-
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-![cadcg](/images/tokyologo.jpg)
-</td>
-<td></td>
-<td markdown="1">
-[**HCI for Machine Learning Lab, University of Tokyo**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
-- Research Assistant  
- 
-
-
-<tr height="10"/>
-
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-![caslogo](/images/caslogo.jpg)
-</td>
-<td></td>
-<td markdown="1">
-[**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
-- Research Intern in Image Processing
-</td> 
-</tr>
-
 </table>
 
 ---
@@ -144,10 +89,10 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 # Teaching
 
 - Teaching Assistant, The University of Hong Kong
-  COMP3230:PrinciplesofOperatingSystems Teaching Assistant, The University of Hong Kong
-  COMP2123:ProgrammingTechniquesandTools
+-   COMP3230:PrinciplesofOperatingSystems Teaching Assistant, The University of Hong Kong
+-   COMP2123:ProgrammingTechniquesandTools
 - Teaching Assistant, University of Science and Technology of China
-  Postgraduate course: IntelligentSystem
+-   Postgraduate course: IntelligentSystem
       
 ---
 
