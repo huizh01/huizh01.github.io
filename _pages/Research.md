@@ -43,8 +43,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 ---
 
 # Work Experiences
-
-
  
 
 <tr height="10"/>
@@ -102,45 +100,12 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 ---
 
 # Teaching
-- COMP7502 Image Processing and Computer Vision
-- COMP7503 Multimedia Technologies
-- COMP7506 Smart Phone Apps Development
-- ENGG1111 Computer Programming and Applications
 
-
+- Teaching Assistant, The University of Hong Kong
+  COMP3230:PrinciplesofOperatingSystems Teaching Assistant, The University of Hong Kong
+  COMP2123:ProgrammingTechniquesandTools
+- Teaching Assistant, University of Science and Technology of China
+  Postgraduate course: IntelligentSystem
+      
 ---
-
-# Skills
-<div class="container">
-<div class="leftpane1" markdown="1">
-#### Programming
-- C/C++
-- MATLAB
-- Python
-- Java
-</div>
-  
-<div class="leftpane1" markdown="1">
-#### Libraries
-- OpenCV
-- Pytorch, TensorFlow
-- OpenGL, CGAL
-- QT
-</div>
-  
-<div class="leftpane1" markdown="1">
-#### Tools
-- Visual Studio
-- Eclipse
-- Git 
-- LaTeX
-- Illustrator, Photoshop
-</div>
-
-<div class="leftpane1" markdown="1">
-#### Language
-- Mandarin
-- English
-</div>
-</div>
 
