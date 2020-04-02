@@ -16,7 +16,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <col >
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/imgages/hkulogo.png)
+![hkulogo](/images/hkulogo.png)
 </td>
 <td></td>
 <td markdown="1">
@@ -31,7 +31,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/imgages/ustclogo.png)
+![ustclogo](/images/ustclogo.png)
 </td>
 <td></td>
 <td markdown="1">
@@ -56,7 +56,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/imgages/hkuenglishlogo.png)
+![hkulogo](/images/hkuenglishlogo.png)
 </td>
 <td></td>
 <td markdown="1">
@@ -69,7 +69,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![cadcg](/img/main/zjulogo.jpg)
+![cadcg](/images/zjulogo.jpg)
 </td>
 <td></td>
 <td markdown="1">
@@ -82,7 +82,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![caslogo](/img/main/caslogo.jpg)
+![caslogo](/images/caslogo.jpg)
 </td>
 <td></td>
 <td markdown="1">
