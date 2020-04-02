@@ -4,11 +4,11 @@ layout: archive
 title: "Research Experience"
 permalink: /Research Experience/
 author_profile: true
-
-CV in [PDF](/archive/CV_ChuanWang.pdf) version.
-
 ---
 
+
+CV in [PDF](/archive/CV_ChuanWang.pdf) version.
+ 
 # Education
 <table style="width:100%">
 <col width="9%">
