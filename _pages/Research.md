@@ -24,10 +24,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 - Ph.D in Computer Science, working in Computer Graphics Group
 - Advisor: Prof. Wenping Wang
 
-</td> 
-</tr>
-
-<tr height="10"/>
+ 
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
@@ -39,8 +36,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 - M.S in Department of Automation
 - Advisor: Prof. Shuang Cong
 
-</td> 
-</tr>
+ 
 
 </table>
 
@@ -74,9 +70,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 [**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), 2018.10 - 2019.2
 - Research Assistant 
-</td> 
-</tr>
-
+ 
 <tr height="10"/>
 
 <tr style="border-bottom:1pt solid #eee">
@@ -87,8 +81,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 [**HCI for Machine Learning Lab, University of Tokyo**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
 - Research Assistant  
-</td> 
-</tr>
+ 
 
 
 <tr height="10"/>
