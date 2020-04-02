@@ -86,7 +86,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 </td>
 <td></td>
 <td markdown="1">
-[**National Laboratory of Pattern Recognition**](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml), Chinese Academy of Science, 2009.7 - 2009.9 
+[**Shenzhen Institute**](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml), Chinese Academy of Science, 2012.6 - 2012.9 
 - Research Intern in Image Processing
 </td> 
 </tr>
