@@ -23,7 +23,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 [**The University of Hong Kong**](http://www.hku.hk), 2015 - 2020 
 - Ph.D in Computer Science, working in Computer Graphics Group
 - Advisor: Prof. Wenping Wang
-
  
 
 <tr style="border-bottom:1pt solid #eee">
@@ -36,11 +35,10 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 - M.S in Department of Automation
 - Advisor: Prof. Shuang Cong
 
- 
-
 </table>
-
 ---
+
+
 
 # Work Experiences
  
@@ -56,7 +54,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 [**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), 2018.10 - 2019.2
 - Research Intern 
-- Advisor: Dr. Nobuyuki Umetani and Prof.TakeoIgarashi
+- Advisor: Dr. Nobuyuki Umetani and Prof.Takeo Igarashi
 
  
 
@@ -64,7 +62,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 ![ustclogo](/images/stuttgartlogo.jpg)
 </td>
- 
 <td markdown="1">
 [**Visualization Research Centre, University of Tokyo**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
 - Research Assistant  
@@ -80,7 +77,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 [**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
 - Research Intern in Image Processing
  
-</table>
+ </table>
 
 ---
 
