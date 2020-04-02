@@ -16,7 +16,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <col >
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/images/hkulogo.png)
+![hkulogo](/images/hkulogo.jpg)
 </td>
 <td></td>
 <td markdown="1">
@@ -31,7 +31,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/images/ustclogo.png)
+![ustclogo](/images/ustclogo.jpg)
 </td>
 <td></td>
 <td markdown="1">
@@ -49,14 +49,13 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 # Work Experiences
 
 
-</td> 
-</tr>
+ 
 
 <tr height="10"/>
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/images/hkuenglishlogo.png)
+![hkulogo](/images/hkuenglishlogo.jpg)
 </td>
 <td></td>
 <td markdown="1">
@@ -69,14 +68,28 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![cadcg](/images/zjulogo.jpg)
+![cadcg](/images/stuttgartlogo.jpg)
 </td>
 <td></td>
 <td markdown="1">
-[**CAD & CG State Key Lab, Zhejiang University**](http://www.cad.zju.edu.cn/english.html), 2010.3 - 2010.6 
-- Research Assistant in Image Processing
+[**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), 2018.10 - 2019.2
+- Research Assistant 
 </td> 
 </tr>
+
+<tr height="10"/>
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![cadcg](/images/tokyologo.jpg)
+</td>
+<td></td>
+<td markdown="1">
+[**HCI for Machine Learning Lab, University of Tokyo**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
+- Research Assistant  
+</td> 
+</tr>
+
 
 <tr height="10"/>
 
@@ -86,7 +99,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 </td>
 <td></td>
 <td markdown="1">
-[**Shenzhen Institute**](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml), Chinese Academy of Science, 2012.6 - 2012.9 
+[**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
 - Research Intern in Image Processing
 </td> 
 </tr>
