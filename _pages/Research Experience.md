@@ -16,7 +16,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <col >
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/img/main/hkulogo1.jpg)
+![hkulogo](/imgages/hkulogo.png)
 </td>
 <td></td>
 <td markdown="1">
@@ -31,11 +31,11 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/img/main/ustclogo.jpg)
+![ustclogo](/imgages/ustclogo.png)
 </td>
 <td></td>
 <td markdown="1">
-[**University of Science and Technology of China**](http://www.ustc.edu.cn), 2006 - 2010 
+[**University of Science and Technology of China**](http://www.ustc.edu.cn), 2012 - 2015
 - M.S in Department of Automation
 - Advisor: Prof. Shuang Cong
 
@@ -43,42 +43,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 </tr>
 
 </table>
-
----
-
-# Skills
-<div class="container">
-<div class="leftpane1" markdown="1">
-#### Programming
-- C/C++
-- MATLAB
-- Python
-- Java
-</div>
-  
-<div class="leftpane1" markdown="1">
-#### Libraries
-- OpenCV
-- Pytorch, TensorFlow
-- OpenGL, CGAL
-- QT
-</div>
-  
-<div class="leftpane1" markdown="1">
-#### Tools
-- Visual Studio
-- Eclipse
-- Git 
-- LaTeX
-- Illustrator, Photoshop
-</div>
-
-<div class="leftpane1" markdown="1">
-#### Language
-- Mandarin
-- English
-</div>
-</div>
 
 ---
 
@@ -92,7 +56,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](http://herohuyongtao.github.io/images/hku2.png)
+![hkulogo](/imgages/hkuenglishlogo.png)
 </td>
 <td></td>
 <td markdown="1">
@@ -196,3 +160,41 @@ td {
   border-collapse: collapse;
 }
 </style>
+
+
+---
+
+# Skills
+<div class="container">
+<div class="leftpane1" markdown="1">
+#### Programming
+- C/C++
+- MATLAB
+- Python
+- Java
+</div>
+  
+<div class="leftpane1" markdown="1">
+#### Libraries
+- OpenCV
+- Pytorch, TensorFlow
+- OpenGL, CGAL
+- QT
+</div>
+  
+<div class="leftpane1" markdown="1">
+#### Tools
+- Visual Studio
+- Eclipse
+- Git 
+- LaTeX
+- Illustrator, Photoshop
+</div>
+
+<div class="leftpane1" markdown="1">
+#### Language
+- Mandarin
+- English
+</div>
+</div>
+
