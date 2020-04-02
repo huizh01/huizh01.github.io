@@ -14,7 +14,7 @@ author_profile: true
  
 <b>[Visualization of Bubble Formation in Porous Media](https://huizh01.github.io/files/VIS_2018.pdf)</b> <br> 
 <b>Hui Zhang</b>, Steffen Frey, Holger Steeb, David Uribe, Thomas Ertl, and Wenping Wang.
-<i>IEEE transactions on visualization and computer graphics[J]</i>. <i>IEEE VIS 2018</i>.[(Video)](https://huizh01.github.io/files/vis_video.mp4)
+<i>IEEE transactions on visualization and computer graphics[J]</i>. <b>IEEE VIS 2018</b>. [(Video)](https://huizh01.github.io/files/vis_video.mp4)
 
 <b>[By Example Synthesis of Three-Dimensional Porous Materials]()</b>https://huizh01.github.io/CAGD17.pdf <br>
 <b>Hui Zhang</b>, Weikai Chen, Bin Wang and Wenping Wang.
@@ -24,7 +24,7 @@ author_profile: true
 Kezhi Li, <b>Hui Zhang</b>, Shuang Cong.
 <i>Quantum Information Processing[J]</i>.  
  
-<b>[Dynamic function Tracking Control of Quantum Systems](https://huizh01.github.io/quantum16.pdf)</b> <br>
+<b>[Dynamic function Tracking Control of Quantum Systems](https://huizh01.github.io/control2015.pdf)</b> <br>
 Shuang Cong and <b>Hui Zhang</b>.
 <i>Control and Design[J]</i>.  
 
