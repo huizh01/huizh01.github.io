@@ -3,6 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com.hk/ci
 permalink: /publications/
 author_profile: true
 ---
+
 <b>[Axis attention enhanced generative network for the synthesis of 3D micro-structures](https://huizh01.github.io/TVCG19.pdf)</b><br>
 <b>Hui Zhang</b>, Lei Yang, Runnan Chen, Nenglun Chen and Wenping Wang.
 <i>submitted to ECCV 2020</i>.
