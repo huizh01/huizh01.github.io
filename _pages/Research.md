@@ -86,11 +86,9 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 # Teaching
 
-- Teaching Assistant, The University of Hong Kong
--   COMP3230:PrinciplesofOperatingSystems Teaching Assistant, The University of Hong Kong
--   COMP2123:ProgrammingTechniquesandTools
-- Teaching Assistant, University of Science and Technology of China
--   Postgraduate course: IntelligentSystem
+-   COMP3230:Principles of Operating Systems, Teaching Assistant, The University of Hong Kong
+-   COMP2123:Programming Techniques and Tools 
+-   Postgraduate course: Intelligent System, University of Science and Technology of China
       
 ---
 
