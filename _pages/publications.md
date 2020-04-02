@@ -6,11 +6,11 @@ author_profile: true
 
 <b>[Axis attention enhanced generative network for the synthesis of 3D micro-structures](https://huizh01.github.io/TVCG19.pdf)</b><br>
 <b>Hui Zhang</b>, Lei Yang, Runnan Chen, Nenglun Chen, Wenping Wang.
-<i>submitted to ECCV 2020</i>.
+<i>(submitted to ECCV 2020)</i>.
 
 <b>[Synthesis of Structurally Complex Materials with Generative adversarial Networks](https://huizh01.github.io/TVCG19.pdf)</b><br>
 <b>Hui Zhang</b>, Lei Yang, Changjian Li and Wenping Wang.
-<i>TVCG manuscript, 2019</i>. 
+<i>(TVCG manuscript, 2019)</i>. 
 
  
 <b>[Visualization of Bubble Formation in Porous Media](https://huizh01.github.io/files/VIS_2018.pdf)</b> <br> 
