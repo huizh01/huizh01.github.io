@@ -4,8 +4,6 @@ layout: archive
 title: "Research Experience"
 permalink: /Research Experience/
 author_profile: true
-redirect_from:
-  - /resume
 ---
  
 
