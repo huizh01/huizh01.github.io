@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com.hk/citations?user=9TdxN0MAAAAJ&hl=zh-CN)"
+title: "Publications "
 permalink: /publications/
 author_profile: true
 ---
@@ -34,3 +34,4 @@ Shuang Cong and <b>Hui Zhang</b>.
 <i>IEEE International Conference on Robotics and Biomimetic, 2014</i>.  
 
  
+[(Google Scholar Profile)](https://scholar.google.com.hk/citations?user=9TdxN0MAAAAJ&hl=zh-CN)
