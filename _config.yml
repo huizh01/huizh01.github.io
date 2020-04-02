@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "HUI ZHANG"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
+name                     : &name "Hui Zhang"
 description              : &description "Ph.D. student, Computer Science Department, The University of Hong Kong"
 url                      : https://huizh01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
