@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://www.dropbox.com/s/y4ns0swn61ot5h3/cv_huizhang_2020.pdf?dl=0)
+
 
 Education
 ======
