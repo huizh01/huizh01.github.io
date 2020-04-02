@@ -5,13 +5,13 @@ main:
     url: /cv/
     
   - title: "Research Experience"
-    url: /teaching/ 
+    url: /Research Experience/ 
     
   - title: "Publications"
     url: /publications/
 
   - title: "Honors & Awards"
-    url: /talks/    
+    url: /Honors & Awards/    
 
   - title: "Contact"
     url: /contact/    
