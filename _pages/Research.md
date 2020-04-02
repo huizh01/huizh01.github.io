@@ -44,18 +44,21 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 # Work Experiences
  
-
-
-
+ <table style="width:100%">
+<col width="9%">
+<col width="20">
+<col >
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/images/ustclogo.jpg)
+![hkulogo](/images/hkulogo.jpg)
 </td>
 <td></td>
 <td markdown="1">
 [**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), 2018.10 - 2019.2
 - Research Intern 
+- Advisor: Dr. Nobuyuki Umetani and Prof.TakeoIgarashi
 
+ 
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
@@ -65,9 +68,25 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 [**Visualization Research Centre, University of Tokyo**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
 - Research Assistant  
+- Advisor: Prof.Thomas Ertl 
+
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![ustclogo](/images/ustclogo.jpg)
+</td>
+<td></td>
+<td markdown="1">
+[**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
+- Research Intern in Image Processing
 
 
 
+</table>
+
+
+
+ 
 <tr height="10"/>
 
 <tr style="border-bottom:1pt solid #eee">
