@@ -1,14 +1,9 @@
----
-layout: page
-title: "Curriculum Vitae"
-tagline : ""
-use_math: true
-lang: zh
----
-{% include JB/setup %}
 
-{% assign posts_collate = site.categories.publications %}
-{% include JB/posts_collate %}
+---
+layout: archive
+title: "Research Experience"
+permalink: /Research Experience/
+author_profile: true
 
 CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
