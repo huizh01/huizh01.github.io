@@ -33,7 +33,7 @@ author_profile: true
 </td>
 <td markdown="1">
 [**University of Science and Technology of China**](http://www.ustc.edu.cn), 2012 - 2015
-- M.S in Department of Automation
+- M.S in Department of Automation, working in System Control Lab
 - Quantum system control, Quantum state reconstruction and tracking algorithm      
 - Advisor: Prof. Shuang Cong
 
@@ -98,20 +98,21 @@ author_profile: true
 <col >
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
- 
+Teaching Assistant, The University of Hong Kong
 </td>
 <td markdown="1">
-- COMP3230:Principles of Operating Systems, Teaching Assistant, The University of Hong Kong
-- COMP2123:Programming Techniques and Tools, Teaching Assistant, The University of Hong Kong 
+- COMP3230: Principles of Operating Systems 
+- COMP2123: Programming Techniques and Tools 
 </td> 
 </tr>
  
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
+ Teaching Assistant, University of Science and Technology of China
  </td>
 <td markdown="1">
-Postgraduate course: Intelligent System, Teaching Assistant, University of Science and Technology of China
+- Postgraduate course: Intelligent System 
 </td> 
 </tr>
 
