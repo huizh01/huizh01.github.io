@@ -8,7 +8,9 @@ author_profile: true
 
 
 CV in [PDF](/archive/CV_ChuanWang.pdf) version.
- 
+
+---
+
 # Education
 <table style="width:100%">
 <col width="9%">
@@ -16,27 +18,36 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <col >
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/images/hkulogo.jpg)
+![hkulogo](/img/main/hkulogo1.jpg)
 </td>
-
+<td></td>
 <td markdown="1">
 [**The University of Hong Kong**](http://www.hku.hk), 2015 - 2020 
 - Ph.D in Computer Science, working in Computer Graphics Group
 - Advisor: Prof. Wenping Wang
- 
+
+</td> 
+</tr>
+
+<tr height="10"/>
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/images/ustclogo.jpg)
+![ustclogo](/img/main/ustclogo.jpg)
 </td>
- 
+<td></td>
 <td markdown="1">
 [**University of Science and Technology of China**](http://www.ustc.edu.cn), 2012 - 2015
 - M.S in Department of Automation
 - Advisor: Prof. Shuang Cong
 
+</td> 
+</tr>
+
 </table>
+
 ---
+
 
 
 
