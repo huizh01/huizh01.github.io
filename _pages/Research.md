@@ -82,7 +82,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 ![caslogo](/images/cas.jpg)</td>
-</td>
 <td markdown="1">
 [**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
 - Research Intern in Image Processing
