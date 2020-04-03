@@ -20,7 +20,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 ![hkulogo](/images/hkulogo.jpg)
 </td>
-
 <td markdown="1">
 [**The University of Hong Kong**](http://www.hku.hk), 2015 - 2020 
 - Ph.D in Computer Science, working in Computer Graphics Group
@@ -35,7 +34,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 ![ustclogo](/images/ustclogo.jpg)
 </td>
- 
 <td markdown="1">
 [**University of Science and Technology of China**](http://www.ustc.edu.cn), 2012 - 2015
 - M.S in Department of Automation
