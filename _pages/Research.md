@@ -18,7 +18,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <col >
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/img/main/hkulogo1.jpg)
+![hkulogo](/images/hkulogo1.jpg)
 </td>
 <td></td>
 <td markdown="1">
@@ -33,7 +33,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/img/main/ustclogo.jpg)
+![ustclogo](/images/ustclogo.jpg)
 </td>
 <td></td>
 <td markdown="1">
