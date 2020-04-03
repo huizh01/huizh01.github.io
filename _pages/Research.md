@@ -5,9 +5,7 @@ permalink: /Research/
 author_profile: true
 ---
 
- 
 ---
-
 # Education
 <table style="width:100%">
 <col width="9%">
