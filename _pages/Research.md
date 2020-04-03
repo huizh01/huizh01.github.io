@@ -66,7 +66,7 @@ author_profile: true
 ![stuttgartlogo](/images/sttugartlogo2.jpg)
 </td>
 <td markdown="1">
-[**Visualization Research Centre, University of Tokyo**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
+[**Visualization Research Centre, University of stuttgart**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
 - Research Assistant  
 - Designed a visualization system for 3D bubble segmentation, reconstruction, and 3D shape searching and clustering in porous media.
 - Advisor: Prof.Thomas Ertl 
@@ -81,7 +81,6 @@ author_profile: true
 [**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
 - Research Intern 
 - Conducted research on medical image segmentation.
-</td> 
 </tr>
 
 </table>
