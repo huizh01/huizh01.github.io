@@ -60,7 +60,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/images/stuttgartlogo2.jpg)
+![ustclogo](/images/sttugartlogo2.jpg)
 </td>
 <td markdown="1">
 [**Visualization Research Centre, University of Tokyo**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
