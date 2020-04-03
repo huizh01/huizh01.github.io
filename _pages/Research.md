@@ -91,7 +91,7 @@ author_profile: true
 
 # Teaching Experiences
 <table style="width:100%">
-<col width="15%">
+<col width="10%">
 <col width="20">
 <col >
 <tr style="border-bottom:1pt solid #eee">
