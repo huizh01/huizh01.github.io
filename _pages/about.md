@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://huizh.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://huizh.github.io/images/hui.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
