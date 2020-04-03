@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Research Experience"
+title: ""
 permalink: /Research/
 author_profile: true
 ---
 
-
-
-CV in [PDF](/archive/CV_ChuanWang.pdf) version.
-
+ 
 ---
 
 # Education
@@ -23,6 +20,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 [**The University of Hong Kong**](http://www.hku.hk), 2015 - 2020 
 - Ph.D in Computer Science, working in Computer Graphics Group
+- 3D modelling and synthesis of complex shape with porous structure based on deep learning and texture synthesis methods. 
 - Advisor: Prof. Wenping Wang
 
 </td> 
@@ -37,6 +35,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 [**University of Science and Technology of China**](http://www.ustc.edu.cn), 2012 - 2015
 - M.S in Department of Automation
+- Quantum system control, Quantum state reconstruction and tracking algorithm      
 - Advisor: Prof. Shuang Cong
 
 </td> 
@@ -46,7 +45,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 ---
 
-# Work Experiences
+# Research Experiences
 
 <table style="width:100%">
 <col width="9%">
@@ -59,6 +58,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 [**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), 2018.10 - 2019.2
 - Research Intern 
+- Research on 3D shape encoding based on deep neural networks,e.g.GANs,VAE.
 - Advisor: Dr. Nobuyuki Umetani and Prof.Takeo Igarashi
 
 </td> 
@@ -73,6 +73,8 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 [**Visualization Research Centre, University of Tokyo**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
 - Research Assistant  
+- Designed a system with 3D bubble segmentation, reconstruction, visualization and 3D shape
+searching and clustering from porous media dataset
 - Advisor: Prof.Thomas Ertl 
 </td> 
 </tr>
@@ -84,7 +86,8 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 ![caslogo](/images/cas.jpg)</td>
 <td markdown="1">
 [**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
-- Research Intern in Image Processing
+- Research Intern 
+- Conducted research on medical image segmentation  
 </td> 
 </tr>
 
