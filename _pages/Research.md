@@ -89,7 +89,7 @@ author_profile: true
 ---
 
 
-# Teaching   
+# Teaching Experiences
 <table style="width:100%">
 <col width="9%">
 <col width="20">
