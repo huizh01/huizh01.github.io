@@ -54,7 +54,7 @@ author_profile: true
 </td>
 <td markdown="1">
 [**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), 2018.10 - 2019.2
-- Research Intern 
+- Visiting Scholar 
 - 3D shape reconstruction and encoding based on deep neural networks,e.g.GANs,VAE.
 - Advisor: Dr. [Nobuyuki Umetani](http://www.nobuyuki-umetani.com/) and Prof. [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/index.html)
 
@@ -67,7 +67,7 @@ author_profile: true
 </td>
 <td markdown="1">
 [**Visualization Research Centre, University of stuttgart**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
-- Research Assistant  
+- Visiting Scholar
 - Designed a visualization system for 3D bubble segmentation, reconstruction, and 3D shape searching and clustering in porous media.
 - Advisor: Prof. [Thomas Ertl](https://scholar.google.com/citations?user=qFQ9jHkAAAAJ&hl=zh-CN) and Prof. [Daniel Weiskopf](https://scholar.google.com/citations?user=sclEgM4AAAAJ&hl=zh-CN)
 </td> 
