@@ -18,7 +18,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <col >
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/images/hkulogo1.jpg)
+![hkulogo](/images/hkulogo.jpg)
 </td>
 <td></td>
 <td markdown="1">
@@ -47,10 +47,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 </table>
 
 ---
-
-
-
-
 
 # Work Experiences
 
@@ -96,8 +92,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 - Research Intern in Image Processing
 </td> 
 </tr>
-
-
 
 </table>
 
