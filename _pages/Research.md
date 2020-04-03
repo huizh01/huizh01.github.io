@@ -48,7 +48,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <col >
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/images/tokyologo.jpg)
+![hkulogo](/images/tokyologo2.jpg)
 </td>
  
 <td markdown="1">
@@ -60,7 +60,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/images/stuttgartlogo.jpg)
+![ustclogo](/images/stuttgartlogo2.jpg)
 </td>
 <td markdown="1">
 [**Visualization Research Centre, University of Tokyo**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
@@ -70,7 +70,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/images/caslogo.jpg)
+![ustclogo](/images/cas.jpg)
 </td>
  
 <td markdown="1">
