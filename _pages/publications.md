@@ -10,7 +10,7 @@ author_profile: true
 
 <b>[Synthesis of Structurally Complex Materials with Generative adversarial Networks](https://huizh01.github.io/files/TVCG19.pdf)</b><br>
 <b>Hui Zhang</b>, Lei Yang, Changjian Li and Wenping Wang.
-<i>(Submitted Journal manuscript, 2019)</i>. 
+<i>(Journal manuscript underreview, 2020)</i>. 
 
  
 <b>[Visualization of Bubble Formation in Porous Media](https://huizh01.github.io/files/VIS_2018.pdf)</b> <br> 
