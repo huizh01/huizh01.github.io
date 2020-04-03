@@ -20,7 +20,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 ![hkulogo](/images/hkulogo.jpg)
 </td>
-<td></td>
+
 <td markdown="1">
 [**The University of Hong Kong**](http://www.hku.hk), 2015 - 2020 
 - Ph.D in Computer Science, working in Computer Graphics Group
@@ -35,7 +35,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 ![ustclogo](/images/ustclogo.jpg)
 </td>
-<td></td>
+ 
 <td markdown="1">
 [**University of Science and Technology of China**](http://www.ustc.edu.cn), 2012 - 2015
 - M.S in Department of Automation
@@ -58,7 +58,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 ![tokyologo](/images/tokyologo2.jpg)
 </td>
-<td></td>
 <td markdown="1">
 [**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), 2018.10 - 2019.2
 - Research Intern 
@@ -73,7 +72,6 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <td markdown="1">
 ![stuttgartlogo](/images/sttugartlogo2.jpg)
 </td>
-<td></td>
 <td markdown="1">
 [**Visualization Research Centre, University of Tokyo**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
 - Research Assistant  
@@ -86,7 +84,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 ![caslogo](/images/cas.jpg)</td>
-<td></td>
+</td>
 <td markdown="1">
 [**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
 - Research Intern in Image Processing
