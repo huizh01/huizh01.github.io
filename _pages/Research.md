@@ -51,7 +51,7 @@ CV in [PDF](/archive/CV_ChuanWang.pdf) version.
 # Work Experiences
 
 <table style="width:100%">
-<col width="17%">
+<col width="9%">
 <col width="20">
 <col >
 <tr style="border-bottom:1pt solid #eee">
