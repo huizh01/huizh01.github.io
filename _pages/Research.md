@@ -55,7 +55,7 @@ author_profile: true
 <td markdown="1">
 [**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), Tokyo, Japan, 2018.10 - 2019.2
 - Visiting Scholar 
-- 3D shape reconstruction and encoding based on deep neural networks,e.g.GANs,VAE.
+- 3D shape reconstruction and encoding based on deep neural networks.
 - Advisor: Dr. [Nobuyuki Umetani](http://www.nobuyuki-umetani.com/) and Prof. [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/index.html)
 
 </td> 
