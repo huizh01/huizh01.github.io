@@ -20,7 +20,7 @@ author_profile: true
 <td markdown="1">
 [**The University of Hong Kong**](http://www.hku.hk), 2015 - 2020 
 - Ph.D in Computer Science, working in Computer Graphics Group
-- 3D modelling and synthesis of complex shape with porous structure based on deep learning and texture synthesis methods. 
+- 3D modelling and synthesis of complex shape with porous structure based on deep learning, texture synthesis and geometry methods. 
 - Advisor: Prof. Wenping Wang
 
 </td> 
