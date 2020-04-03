@@ -21,7 +21,7 @@ author_profile: true
 <b>Hui Zhang</b>, Weikai Chen, Bin Wang and Wenping Wang.
 <i>Computer Aided Geometric Design[J], 2017</i>. <i>GMP 2017</i>.
 
-(Research on quantum system control algorithm below)
+(Research on quantum system control below)
 
 <b>[An improved robust ADMM algorithm for quantum state tomography](https://huizh01.github.io/files/quantum16.pdf)</b> <br>
 Kezhi Li, <b>Hui Zhang</b>, Shuang Cong.
