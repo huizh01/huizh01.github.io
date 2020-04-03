@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[Axis attention enhanced generative network for the synthesis of 3D micro-structures](https://huizh01.github.io/files/TVCG19.pdf)</b><br>
+<b>[Axis attention enhanced generative network for the synthesis of 3D micro-structures](https://huizh01.github.io/files/eccv484.pdf)</b><br>
 <b>Hui Zhang</b>, Lei Yang, Runnan Chen, Nenglun Chen, Wenping Wang.
 <i>(submitted to ECCV 2020)</i>.
 
