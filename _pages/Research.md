@@ -53,7 +53,7 @@ author_profile: true
 ![tokyologo](/images/tokyologo2.jpg)
 </td>
 <td markdown="1">
-[**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), 2018.10 - 2019.2
+[**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), Tokyo, Japan, 2018.10 - 2019.2
 - Visiting Scholar 
 - 3D shape reconstruction and encoding based on deep neural networks,e.g.GANs,VAE.
 - Advisor: Dr. [Nobuyuki Umetani](http://www.nobuyuki-umetani.com/) and Prof. [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/index.html)
@@ -66,7 +66,7 @@ author_profile: true
 ![stuttgartlogo](/images/sttugartlogo2.jpg)
 </td>
 <td markdown="1">
-[**Visualization Research Centre, University of stuttgart**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
+[**Visualization Research Centre, University of stuttgart**](https://www.visus.uni-stuttgart.de/en), Stuttgart, Germany, 2017.6 - 2017.10
 - Visiting Scholar
 - Designed a visualization system for 3D bubble segmentation, reconstruction, and 3D shape searching and clustering in porous media.
 - Advisor: Prof. [Thomas Ertl](https://scholar.google.com/citations?user=qFQ9jHkAAAAJ&hl=zh-CN) and Prof. [Daniel Weiskopf](https://scholar.google.com/citations?user=sclEgM4AAAAJ&hl=zh-CN)
@@ -78,7 +78,7 @@ author_profile: true
 ![caslogo](/images/cas.jpg)
  </td>
 <td markdown="1">
-[**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
+[**Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences**](http://english.siat.cas.cn), Shenzhen, China, 2012.6 - 2012.9 
 - Research Intern 
 - Conducted research on medical image segmentation.
 </td> 
