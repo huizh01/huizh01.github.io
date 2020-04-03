@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://huizh.github.io/images/hui.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
+ 
 
 # About Me
 * I am a final year Ph.D. student of Computer Graphics Group, in the [Department of Computer Science](https://www.cs.hku.hk), [The University of Hong Kong](https://www.hku.hk), advised by Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). 
