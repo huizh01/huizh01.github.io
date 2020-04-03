@@ -58,7 +58,7 @@ author_profile: true
 <td markdown="1">
 [**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), 2018.10 - 2019.2
 - Research Intern 
-- Research on 3D shape encoding based on deep neural networks,e.g.GANs,VAE.
+- 3D shape reconstruction and encoding based on deep neural networks,e.g.GANs,VAE.
 - Advisor: Dr. Nobuyuki Umetani and Prof.Takeo Igarashi
 
 </td> 
@@ -84,6 +84,7 @@ searching and clustering from porous media dataset
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 ![caslogo](/images/cas.jpg)</td>
+ </td>
 <td markdown="1">
 [**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
 - Research Intern 
