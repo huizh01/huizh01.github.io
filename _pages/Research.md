@@ -75,7 +75,7 @@ author_profile: true
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![caslogo](/images/cas.jpg)</td>
+![caslogo](/images/cas.jpg)
  </td>
 <td markdown="1">
 [**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
