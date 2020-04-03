@@ -26,7 +26,7 @@ author_profile: true
 </td> 
 </tr>
 
-<tr height="10"/>
+
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 ![ustclogo](/images/ustclogo.jpg)
@@ -63,7 +63,6 @@ author_profile: true
 </td> 
 </tr>
 
-<tr height="10"/>
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 ![stuttgartlogo](/images/sttugartlogo2.jpg)
@@ -76,7 +75,6 @@ author_profile: true
 </td> 
 </tr>
 
-<tr height="10"/>
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 ![caslogo](/images/cas.jpg)</td>
@@ -93,11 +91,30 @@ author_profile: true
 ---
 
 
-# Teaching
+# Teaching   
+<table style="width:100%">
+<col width="9%">
+<col width="20">
+<col >
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+ 
+</td>
+<td markdown="1">
+- COMP3230:Principles of Operating Systems, Teaching Assistant, The University of Hong Kong
+- COMP2123:Programming Techniques and Tools, Teaching Assistant, The University of Hong Kong 
+</td> 
+</tr>
+ 
 
--   COMP3230:Principles of Operating Systems, Teaching Assistant, The University of Hong Kong
--   COMP2123:Programming Techniques and Tools 
--   Postgraduate course: Intelligent System, University of Science and Technology of China
-      
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+ </td>
+<td markdown="1">
+Postgraduate course: Intelligent System, Teaching Assistant, University of Science and Technology of China
+</td> 
+</tr>
+
+</table>      
 ---
 
