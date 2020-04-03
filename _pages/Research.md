@@ -19,7 +19,7 @@ author_profile: true
 [**The University of Hong Kong**](http://www.hku.hk), 2015 - 2020 
 - Ph.D in Computer Science, working in Computer Graphics Group
 - 3D modelling and synthesis of complex shape with porous structure based on texture synthesis, geometry and deep learning. 
-- Advisor: Prof. Wenping Wang
+- Advisor: Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping)
 
 </td> 
 </tr>
@@ -31,9 +31,9 @@ author_profile: true
 </td>
 <td markdown="1">
 [**University of Science and Technology of China**](http://www.ustc.edu.cn), 2012 - 2015
-- M.S in Department of Automation, working in System Control Lab
+- M.S in [Department of Automation](https://auto.ustc.edu.cn/en/index.php), working in System Control Lab
 - Quantum system control, Quantum state reconstruction and tracking algorithm      
-- Advisor: Prof. Shuang Cong
+- Advisor: Prof. [Shuang Cong](https://scholar.google.com.hk/citations?hl=en&user=2oPsqNQAAAAJ&view_op=list_works)
 
 </td> 
 </tr>
@@ -56,7 +56,7 @@ author_profile: true
 [**HCI for Machine Learning Lab, University of Tokyo**](https://www-ui.is.s.u-tokyo.ac.jp/crest/), 2018.10 - 2019.2
 - Research Intern 
 - 3D shape reconstruction and encoding based on deep neural networks,e.g.GANs,VAE.
-- Advisor: Dr. Nobuyuki Umetani and Prof.Takeo Igarashi
+- Advisor: Dr. [Nobuyuki Umetani](http://www.nobuyuki-umetani.com/) and Prof. [Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/index.html)
 
 </td> 
 </tr>
@@ -69,7 +69,7 @@ author_profile: true
 [**Visualization Research Centre, University of stuttgart**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
 - Research Assistant  
 - Designed a visualization system for 3D bubble segmentation, reconstruction, and 3D shape searching and clustering in porous media.
-- Advisor: Prof.Thomas Ertl 
+- Advisor: Prof. [Thomas Ertl](https://scholar.google.com/citations?user=qFQ9jHkAAAAJ&hl=zh-CN) and Prof. [Daniel Weiskopf](https://scholar.google.com/citations?user=sclEgM4AAAAJ&hl=zh-CN)
 </td> 
 </tr>
 
