@@ -81,6 +81,7 @@ author_profile: true
 [**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
 - Research Intern 
 - Conducted research on medical image segmentation.
+</td> 
 </tr>
 
 </table>
@@ -94,7 +95,6 @@ author_profile: true
 <col width="20">
 <col >
 <tr style="border-bottom:1pt solid #eee">
-</td>
 <td markdown="1">
 - COMP3230: Principles of Operating Systems, Teaching Assistant, The University of Hong Kong 
 - COMP2123: Programming Techniques and Tools, Teaching Assistant, The University of Hong Kong 
@@ -103,12 +103,11 @@ author_profile: true
  
 
 <tr style="border-bottom:1pt solid #eee">
-</td>
 <td markdown="1">
 - Postgraduate course: Intelligent System, Teaching Assistant, University of Science and Technology of China
 </td> 
 </tr>
 
 </table>      
----
+
 
