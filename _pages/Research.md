@@ -27,7 +27,6 @@ author_profile: true
 </tr>
 
 <tr height="10"/>
-
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 ![ustclogo](/images/ustclogo.jpg)
@@ -65,7 +64,6 @@ author_profile: true
 </tr>
 
 <tr height="10"/>
-
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 ![stuttgartlogo](/images/sttugartlogo2.jpg)
@@ -73,14 +71,12 @@ author_profile: true
 <td markdown="1">
 [**Visualization Research Centre, University of Tokyo**](https://www.visus.uni-stuttgart.de/en), 2017.6 - 2017.10
 - Research Assistant  
-- Designed a system with 3D bubble segmentation, reconstruction, visualization and 3D shape
-searching and clustering from porous media dataset
+- Designed a visualization system for 3D bubble segmentation, reconstruction, and 3D shape searching and clustering in porous media.
 - Advisor: Prof.Thomas Ertl 
 </td> 
 </tr>
 
 <tr height="10"/>
-
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 ![caslogo](/images/cas.jpg)</td>
@@ -88,7 +84,7 @@ searching and clustering from porous media dataset
 <td markdown="1">
 [**Shenzhen Institute Chinese Academy of Science**](http://english.siat.cas.cn), 2012.6 - 2012.9 
 - Research Intern 
-- Conducted research on medical image segmentation  
+- Conducted research on medical image segmentation.
 </td> 
 </tr>
 
