@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[Skin Texture Generation via Blue-noise Gabor Filtering based Generative Adversarial Network](https://huizh01.github.io/files/skin texture.pdf)</b><br>
+<b>[Skin Texture Generation via Blue-noise Gabor Filtering based Generative Adversarial Network](https://huizh01.github.io/files/skin.pdf)</b><br>
 <b>Hui Zhang</b>, Chuan Wang, Nenglun Chen, Jue Wang, Wenping Wang.
 <i>(ACM Multimedia 2020)</i>.
 
