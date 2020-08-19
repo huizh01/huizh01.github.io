@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[Skin Texture Generation via Blue-noise Gabor Filtering based Generative Adversarial Network](https://huizh01.github.io/files/skin texture.pdf)</b><br>
+<b>Hui Zhang</b>, Chuan Wang, Nenglun Chen, Jue Wang, Wenping Wang.
+<i>(ACM Multimedia 2020)</i>.
+
+
 <b>[Axis attention enhanced generative network for the synthesis of 3D micro-structures](https://huizh01.github.io/files/eccv484.pdf)</b><br>
 <b>Hui Zhang</b>, Lei Yang, Runnan Chen, Nenglun Chen, Wenping Wang.
 <i>(Submitted to ECCV 2020)</i>.
