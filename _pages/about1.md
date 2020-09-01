@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-* I am a Ph.D graduated from [Department of Computer Science](https://www.cs.hku.hk), [The University of Hong Kong](https://www.hku.hk), advised by Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping).  
+* I obtained my Ph.D degree from [Department of Computer Science](https://www.cs.hku.hk), [The University of Hong Kong](https://www.hku.hk), advised by Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping).  
 
 * My  research interest lies in computer vision and graphics, machine learning, visualization, medical image processing. I am also interested in developing new machine learning and AI methods to solve challenging research problems and applications.
 
