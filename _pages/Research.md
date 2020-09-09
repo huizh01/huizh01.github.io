@@ -69,7 +69,7 @@ author_profile: true
 [**Visualization Research Centre, University of stuttgart**](https://www.visus.uni-stuttgart.de/en), Stuttgart, Germany, 2017.6 - 2017.10
 - Visiting Scholar
 - Designed a visualization system for 3D bubble segmentation, reconstruction, and 3D shape searching and clustering in porous media.
-- Advisor: Prof. [Thomas Ertl](https://scholar.google.com/citations?user=qFQ9jHkAAAAJ&hl=zh-CN) and Prof. [Daniel Weiskopf](https://scholar.google.com/citations?user=sclEgM4AAAAJ&hl=zh-CN)
+- Advisor: Prof. [Thomas Ertl](https://scholar.google.com/citations?user=qFQ9jHkAAAAJ&hl=zh-CN), Dr. [Steffen Frey](https://freysn.github.io) and Prof. [Daniel Weiskopf](https://scholar.google.com/citations?user=sclEgM4AAAAJ&hl=zh-CN)
 </td> 
 </tr>
 
