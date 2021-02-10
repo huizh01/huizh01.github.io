@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hui Zhang"
 title_separator          : "-"
 name                     : &name "Hui Zhang"
-description              : &description "Ph.D. student, Department of Computer Science, The University of Hong Kong"
+description              : &description "Postdoc Fellow. Department of Computer Science, KTH Royal Institute of Technology"
 url                      : https://huizh01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huizh01/huizh01.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Hui Zhang"
   avatar           : "hui.jpg"
-  bio              : "Ph.D. student, Department of Computer Science, The University of Hong Kong"
+  bio              : "Postdoc Fellow. Department of Computer Science, KTH Royal Institute of Technology"
   location         : "Hong Kong, China"
   employer         : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=9TdxN0MAAAAJ&hl=zh-CN"
-  email            : "huizh@hku.hk"
+  email            : "huizh@connecnt.hku.hk"
   uri              : 
   bitbucket        :
   codepen          :
