@@ -16,3 +16,5 @@ Before this I received M.S. degree in the Department of Automation, [University 
 
 * My research interests include Computer Vision and Graphics, Machine Learning, Visualization, Medical Image Processing. I am also interested in developing new machine learning and AI methods to solve challenging research problems and applications.
 
+* Welcome to visit the CV tag to know more about me. 
+
