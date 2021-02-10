@@ -79,8 +79,9 @@ analytics:
 author:
   name             : "Hui Zhang"
   avatar           : "hui.jpg"
-  bio              : "Postdoc Fellow. Department of Computer Science, KTH Royal Institute of Technology"
-  location         : "Hong Kong, China"
+  bio              : "Postdoc Fellow."
+  bio              : "Department of Computer Science, KTH Royal Institute of Technology"
+  location         : "Stockholm, Sweden"
   employer         : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=9TdxN0MAAAAJ&hl=zh-CN"
   email            : "huizh@connecnt.hku.hk"
