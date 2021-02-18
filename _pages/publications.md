@@ -11,7 +11,7 @@ author_profile: true
 
 <b>[Axis attention enhanced generative network for the synthesis of 3D micro-structures](https://huizh01.github.io/files/eccv484.pdf)</b><br>
 <b>Hui Zhang</b>, Lei Yang, Runnan Chen, Nenglun Chen, Wenping Wang.
-<i>(Journal under review 2021)</i>.
+<i>(Journal under review 2020)</i>.
 
 <b>[Synthesis of Structurally Complex Materials with Generative adversarial Networks](https://huizh01.github.io/files/TVCG19.pdf)</b><br>
 <b>Hui Zhang</b>, Lei Yang, Changjian Li and Wenping Wang.
