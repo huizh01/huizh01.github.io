@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[Facial Skin Textural Generation by GenerativeNetwork withBlue Noise Spectrum Analysis](https://)</b><br>
+<b>Hui Zhang</b>, Chuan Wang, Nenglun Chen, Jue Wang, Wenping Wang.
+<i>(Journal under review 2021)</i>.
+
 <b>[Skin Texture Generation via Blue-noise Gabor Filtering based Generative Adversarial Network](https://huizh01.github.io/files/skin.pdf)</b><br>
 <b>Hui Zhang</b>, Chuan Wang, Nenglun Chen, Jue Wang, Wenping Wang.
 <i>(ACM Multimedia 2020)</i>.
