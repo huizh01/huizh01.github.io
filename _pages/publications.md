@@ -16,7 +16,7 @@ author_profile: true
 
 <b>[Synthesis of Structurally Complex Materials with Generative adversarial Networks](https://huizh01.github.io/files/TVCG19.pdf)</b><br>
 <b>Hui Zhang</b>, Lei Yang, Changjian Li, Bojian Wu and Wenping Wang.
-<i>Computer Aided Design[J], 2021, manuscript</i>. 
+<i>Computer Aided Design[J], 2021</i>. 
 
 <b>[Skin Texture Generation via Blue-noise Gabor Filtering based Generative Adversarial Network](https://huizh01.github.io/files/skin.pdf)</b><br>
 <b>Hui Zhang</b>, Chuan Wang, Nenglun Chen, Jue Wang and Wenping Wang.
