@@ -19,8 +19,8 @@ author_profile: true
 <i>Computer Aided Design[J], 2021, manuscript</i>. 
 
 <b>[Skin Texture Generation via Blue-noise Gabor Filtering based Generative Adversarial Network](https://huizh01.github.io/files/skin.pdf)</b><br>
-<b>Hui Zhang</b>, Chuan Wang, Nenglun Chen, Jue Wang, Wenping Wang.
-<i>ACM Multimedia[C], Seattle, United States, 2020</i>.
+<b>Hui Zhang</b>, Chuan Wang, Nenglun Chen, Jue Wang and Wenping Wang.
+<i> ACM International Conference on Multimedia[C], Seattle, United States, 2020</i>.
  
 <b>[Visualization of Bubble Formation in Porous Media](https://huizh01.github.io/files/VIS_2018.pdf)</b> <br> 
 <b>Hui Zhang</b>, Steffen Frey, Holger Steeb, David Uribe, Thomas Ertl, and Wenping Wang.
